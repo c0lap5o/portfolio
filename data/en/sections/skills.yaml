@@ -10,9 +10,93 @@ section:
   # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
+- name: Docker
+  logo: https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png
+  summary: "Proficient in containerizing applications and managing Docker images. Experienced in creating efficient Dockerfiles and orchestrating multi-container applications with Docker Compose."
+  url: "https://www.docker.com/"
+
 - name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+  logo: https://kubernetes.io/images/favicon.png
+  summary: "Capable of deploying and managing applications on Kubernetes. Experienced in writing Kubernetes controllers for CRDs and implementing advanced networking and storage solutions."
   url: "https://kubernetes.io/"
 
+- name: Tomcat
+  logo: https://tomcat.apache.org/res/images/tomcat.png
+  summary: "Skilled in deploying and configuring Java web applications on Tomcat servers. Experienced in containerizing Tomcat for Kubernetes deployments."
+  url: "https://tomcat.apache.org/"
+
+- name: Java
+  logo: https://www.oracle.com/a/ocom/img/obic-java-cup.svg
+  summary: "Proficient in developing enterprise-grade Java applications. Experienced in creating microservices and custom Kubernetes operators using Java."
+  url: "https://www.java.com/"
+
+- name: Spring
+  logo: https://spring.io/img/spring-2.svg
+  summary: "Skilled in developing cloud-native applications using Spring Framework. Experienced in creating Spring Boot applications optimized for Kubernetes deployments."
+  url: "https://spring.io/"
+
+- name: Maven
+  logo: https://maven.apache.org/images/maven-logo-black-on-white.png
+  summary: "Proficient in managing Java project dependencies and build processes. Experienced in integrating Maven with CI/CD pipelines for Kubernetes deployments."
+  url: "https://maven.apache.org/"
+
+- name: JavaScript
+  logo: https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png
+  summary: "Skilled in front-end and Node.js back-end development. Experienced in creating and deploying JavaScript applications in containerized environments."
+  url: "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+
+- name: HTML
+  logo: https://www.w3.org/html/logo/badge/html5-badge-h-solo.png
+  summary: "Proficient in creating structured and semantic web content. Experienced in developing responsive web applications deployable on Kubernetes."
+  url: "https://html.spec.whatwg.org/"
+
+- name: CSS
+  logo: https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg
+  summary: "Skilled in styling web applications for optimal user experience. Experienced in creating responsive designs for applications deployed on Kubernetes."
+  url: "https://www.w3.org/Style/CSS/"
+
+- name: Thymeleaf
+  logo: https://www.thymeleaf.org/images/thymeleaf.png
+  summary: "Proficient in server-side Java templating with Thymeleaf. Experienced in developing dynamic web applications deployable on Kubernetes."
+  url: "https://www.thymeleaf.org/"
+
+- name: Hibernate
+  logo: https://hibernate.org/images/hibernate-logo.svg
+  summary: "Skilled in object-relational mapping for Java applications. Experienced in optimizing database interactions for applications running on Kubernetes."
+  url: "https://hibernate.org/"
+
+- name: AWS
+  logo: https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg
+  summary: "Proficient in deploying and managing applications on AWS. Experienced in integrating AWS services with Kubernetes deployments."
+  url: "https://aws.amazon.com/"
+
+- name: Nginx
+  logo: https://www.nginx.com/wp-content/uploads/2020/05/NGINX-product-icon.svg
+  summary: "Skilled in configuring Nginx as a web server and reverse proxy. Experienced in using Nginx Ingress Controller for Kubernetes."
+  url: "https://www.nginx.com/"
+
+- name: Python
+  logo: https://www.python.org/static/community_logos/python-logo-generic.svg
+  summary: "Proficient in Python development for backend services and automation. Experienced in creating Python-based microservices and Kubernetes operators."
+  url: "https://www.python.org/"
+
+- name: MySQL
+  logo: https://www.mysql.com/common/logos/logo-mysql-170x115.png
+  summary: "Skilled in designing and managing MySQL databases. Experienced in deploying and maintaining MySQL instances on Kubernetes."
+  url: "https://www.mysql.com/"
+
+- name: TailwindCSS
+  logo: https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg
+  summary: "Proficient in using TailwindCSS for rapid UI development. Experienced in creating responsive designs for web applications deployed on Kubernetes."
+  url: "https://tailwindcss.com/"
+
+- name: Bootstrap
+  logo: https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png
+  summary: "Skilled in using Bootstrap for responsive web design. Experienced in developing mobile-first applications deployable on Kubernetes."
+  url: "https://getbootstrap.com/"
+
+- name: Angular
+  logo: https://angular.io/assets/images/logos/angular/angular.svg
+  summary: "Proficient in developing single-page applications with Angular. Experienced in containerizing and deploying Angular apps on Kubernetes."
+  url: "https://angular.io/"
 
