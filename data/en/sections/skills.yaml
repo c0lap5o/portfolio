@@ -1,0 +1,97 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+  # Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Docker
+  logo: /images/sections/skills/docker.png
+  summary: "Proficient in containerizing applications and managing Docker images. Experienced in creating efficient Dockerfiles and orchestrating multi-container applications with Docker Compose."
+  url: "https://www.docker.com/"
+
+- name: Tomcat
+  logo: /images/sections/skills/tomcat.png
+  summary: "Skilled in deploying and configuring Java web applications on Tomcat servers."
+  url: "https://tomcat.apache.org/"
+
+- name: Java
+  logo: /images/sections/skills/java.png
+  summary: "Proficient in developing enterprise-grade Java applications. Experienced in creating microservices."
+  url: "https://www.java.com/"
+
+- name: Spring
+  logo: /images/sections/skills/spring.svg
+  summary: "Skilled in developing cloud-native applications using Spring Framework."
+  url: "https://spring.io/"
+
+- name: Maven
+  logo: /images/sections/skills/maven2.png 
+  summary: "Proficient in managing Java project dependencies and build processes."
+  url: "https://maven.apache.org/"
+
+- name: JavaScript
+  logo: /images/sections/skills/JavaScript-logo.png 
+  summary: "Skilled in front-end and Node.js back-end development."
+  url: "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+
+- name: HTML
+  logo: /images/sections/skills/html5-badge-h-solo.png
+  summary: "Proficient in creating structured and semantic web content. Experienced in developing responsive web applications."
+  url: "https://html.spec.whatwg.org/"
+
+- name: CSS
+  logo: /images/sections/skills/CSS3_logo_and_wordmark.svg 
+  summary: "Skilled in styling web applications for optimal user experience. Experienced in creating responsive designs for web applications."
+  url: "https://www.w3.org/Style/CSS/"
+
+- name: Thymeleaf
+  logo: /images/sections/skills/thymeleaf.png
+  summary: "Proficient in server-side Java templating with Thymeleaf."
+  url: "https://www.thymeleaf.org/"
+
+- name: Hibernate
+  logo: /images/sections/skills/hibernate-logo.png
+  summary: "Skilled in object-relational mapping for Java applications. Experienced in optimizing database interactions."
+  url: "https://hibernate.org/"
+
+- name: AWS
+  logo: /images/sections/skills/amazon.svg
+  summary: "Proficient in deploying and managing applications on AWS."
+  url: "https://aws.amazon.com/"
+
+- name: Nginx
+  logo: /images/sections/skills/nginx.png
+  summary: "Skilled in configuring Nginx as a web server and reverse proxy."
+  url: "https://www.nginx.com/"
+
+- name: Python
+  logo: /images/sections/skills/python-logo.png
+  summary: "Proficient in Python development for backend services and automation. Experienced in creating Python-based microservices."
+  url: "https://www.python.org/"
+
+- name: MySQL
+  logo: /images/sections/skills/logo-mysql.png
+  summary: "Skilled in designing and managing MySQL databases. Experienced in deploying and maintaining MySQL instances."
+  url: "https://www.mysql.com/"
+
+- name: TailwindCSS
+  logo: /images/sections/skills/Tailwind_CSS_Logo.svg
+  summary: "Proficient in using TailwindCSS for rapid UI development. Experienced in creating responsive designs for web applications."
+  url: "https://tailwindcss.com/"
+
+- name: Bootstrap
+  logo: /images/sections/skills/bootstrap-logo-shadow.png
+  summary: "Skilled in using Bootstrap for responsive web design. Experienced in developing mobile-first applications."
+  url: "https://getbootstrap.com/"
+
+- name: Angular
+  logo: /images/sections/skills/angular.svg
+  summary: "Proficient in developing single-page applications with Angular. Experienced in containerizing and deploying Angular apps."
+  url: "https://angular.io/"
+

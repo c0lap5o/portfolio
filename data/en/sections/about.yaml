@@ -1,0 +1,39 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Developer
+# your company information
+company:
+  name: Contact me to hire me :)
+  url: ""
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'I’m a computer network and Linux enthusiast who speaks Java, JavaScript fluently. When I’m not coding, you’ll find
+me enjoying nature, practicing sustainability, or roller skating—I’ve been at it for 20 of my 25 years! I enjoy mixing
+tracks as much as I love setting up servers and writing code. Outgoing, curious, and dedicated, I’m always up for a new
+challenge and a good laugh.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "pedrocolaco89@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/c0l4p5o"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/pncolaco"
