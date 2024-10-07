@@ -1,0 +1,23 @@
+# some information about you
+name: "Pedro Colaço"
+nickname: "c0l4p5o"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/me.jpeg"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "pedrocolaco89@gmail.com"
+  github: c0l4p5o
+  linkedin: pncolaco
+
+# some summary about what you do
+summary:
+  - I am a Developer
+  - I love servers
+  - I love proxys
+  - I am a nature lover
+  - I love camping
+  - I love playing music
+  - I love pyhon
+  - I love Java
+

@@ -1,0 +1,86 @@
+baseURL: http://example.org/
+languageCode: en-Us
+title: c0lap5o Portfolio
+module:
+  hugoVersion:
+    min: "0.128.0"
+    extended: true
+  mounts:
+    - source: content
+      target: content
+    - source: static
+      target: static
+    - source: layouts
+      target: layouts
+    - source: data
+      target: data
+    - source: assets
+      target: assets
+    - source: i18n
+      target: i18n
+    - source: archetypes
+      target: archetypes
+    - source: ../../node_modules/flag-icons/flags
+      target: static/flags
+    - source: ../../node_modules/@fontsource/mulish/files
+      target: static/files
+    - source: ../../node_modules/katex/dist/fonts
+      target: static/fonts
+
+defaultContentLanguage: en
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    startLevel: 2
+    endLevel: 6
+    ordered: false
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+enableEmoji: true
+
+params:
+  background: /images/background_dark.jpg
+  logo:
+    #main: /images/site/main-logo.png
+    #inverted: /images/site/inverted-logo.jpg
+    #favicon: /images/site/favicon.png
+  topNavbar:
+    flags:
+      enable: true 
+  features:
+    theme:
+      enable: true
+      services:
+        light: true
+        dark: true
+        default: dark
+    portfolio:
+      enable: true
+    blog:
+      enable: true
+    toc:
+      enable: true
+    tags: 
+      enable: true 
+      on_card: true
+
+  footer:
+    enable: true
+    template: footer.html
+    navigation:
+      enable: true
+      customMenus: true
+    contactMe:
+      enable: true
+    credentials:
+      enable: true
+    newsletter:
+      enable: false
