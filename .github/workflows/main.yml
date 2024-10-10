@@ -10,7 +10,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-
+    
+    - name: Build Hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: 'latest'
+        extend: true
+    
+    - name: Build Hugo Site
+      run: hugo --minify
+      
     - name: Configure AWS credentials
       uses: aws-actions/configure-aws-credentials@v1
       with:
