@@ -1,0 +1,6 @@
+img {
+    height: auto; /* Maintain aspect ratio */
+    object-fit: contain; /* Prevents image distortion */
+    max-width: 100%; /* Ensures image doesn't overflow container */
+}
+

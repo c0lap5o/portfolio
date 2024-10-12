@@ -11,17 +11,15 @@ section:
 designation: Developer
 # your company information
 company:
-  name: Contact me to hire me :)
-  url: ""
+  name: Contact to hire :)
+  url: "https://www.linkedin.com/in/pncolaco/"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I’m a computer network and Linux enthusiast who speaks Java, JavaScript fluently. When I’m not coding, you’ll find
-me enjoying nature, practicing sustainability, or roller skating—I’ve been at it for 20 of my 25 years! I enjoy mixing
-tracks as much as I love setting up servers and writing code. Outgoing, curious, and dedicated, I’m always up for a new
-challenge and a good laugh.'
+summary: "I'm a dedicated and slightly crazy developer with a passion for coding. I love solving good bug mysteries that tickle my brain, and I'll go to the 15th page of a Google search to crack them. My ideas are worth a million dollars, and if you happen to hear one, don't let it escape – it might make you rich!
+
+Always eager to learn something new and put it into practice, I create things with code that are uniquely mine, and I love every bit of it. Sometimes it feels like an action movie, navigating through perils like bugs, configurations, architecture decisions, and deployment challenges. Even if I don't know something, I'm committed to learning it and reaching the point of conclusion."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.

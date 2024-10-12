@@ -8,6 +8,7 @@ menu:
     parent: notes-bash
     weight: 10
 ---
+
 <!-- Variable -->
 {{< note title="Variable" >}}
 
@@ -15,7 +16,7 @@ menu:
 NAME="John"
 echo $NAME
 echo "$NAME"
-echo "${NAME}"
+echo "${NAME}
 ```
 
 {{< /note >}}
