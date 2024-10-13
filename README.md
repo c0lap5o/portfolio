@@ -4,7 +4,7 @@
 ![GitHub Actions](https://img.shields.io/badge/Build%20Status-Passing-brightgreen.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![AWS](https://img.shields.io/badge/AWS-Active-orange.svg)
-![GitHub Repo Size](https://img.shields.io/github/repo-size/<username>/<repository>.svg)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/c0lap5o/portfolio.svg)
 
 
 Welcome to my portfolio! This site is built using the [Toha theme](https://github.com/hugo-toha/toha) for Hugo, a fast and flexible static site generator. Hugo allows for rapid website development, enabling me to create a visually appealing and user-friendly portfolio with ease.
