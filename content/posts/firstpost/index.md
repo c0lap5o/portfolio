@@ -20,7 +20,7 @@ As this is my first post, I will talk a little bit about myself so you can get t
 
 I am a very curious person who likes to learn and solve problems; maybe that's why I love programming so much! I have been learning AWS, and actually, it's where this website is deployed (YAY!). I am also currently learning Angular, self-taught, and this website might be getting a makeover eventually.
 
-I'm full of ideas to create things but have little time to make them. As my "About" section says: "My ideas are worth a million dollars, and if you happen to hear one, don’t let it escape – it might make you rich!" I WILL ALWAYS, BUT ALWAYS, HAVE PROJECTS ON THEIR WAY. My never-ending creativity and craving to create will keep this machine going, trying to solve real-world problems or just designing cool stuff. And yes, I say the word "stuff" a lot.
+I'm full of ideas to create things but have little time to make them. I WILL ALWAYS, BUT ALWAYS, HAVE PROJECTS ON THEIR WAY. My never-ending creativity and craving to create will keep this machine going, trying to solve real-world problems or just designing cool stuff. And yes, I say the word "stuff" a lot.
 
 I love music and listen to various genres. One minute I might be listening to classical music, and the next, Psy Trance Hitech. Yeah, it gets wild! I absolutely love listening to music and going camping. Nature is where we are all supposed to be, and we must maintain it sustainably. Yes, it sounds kind of like an antithesis, but I like both worlds—nature and tech—and believe in harmony with nature. Besides, I love myself that way.
 
