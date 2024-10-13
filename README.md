@@ -1,6 +1,6 @@
 # Portfolio
 
-![Hugo](https://img.shields.io/badge/Hugo-0.88.1-blue.svg) 
+![Hugo](https://img.shields.io/badge/Hugo-blue.svg) 
 ![GitHub Actions](https://img.shields.io/badge/Build%20Status-Passing-brightgreen.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![AWS](https://img.shields.io/badge/AWS-Active-orange.svg)
