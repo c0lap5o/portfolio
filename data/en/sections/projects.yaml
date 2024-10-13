@@ -55,6 +55,6 @@ projects:
   logo: /images/sections/projects/toha.png
   role: Owner
   timeline: "October 2024"
-  repo: https://github.com/hossainemruz/toha
+  repo: https://github.com/c0lap5o/portfolio
   summary: This portfolio using Toha Hugo theme.
   tags: ["hobby","hugo","theme","professional"]
